@@ -42,3 +42,10 @@ The connectivity tests were reviewed to confirm that the local TCP/IP stack, def
 
 Lesson Learnt
 I learned how to investigate network connectivity issues on Windows 11 using Command Prompt. I practiced checking IP configuration with `ipconfig /all`, testing the local TCP/IP stack and network connectivity with `ping`, and checking DNS resolution with `nslookup`. I also learned that troubleshooting should follow a systematic process, starting with local network configuration and moving toward external connectivity and name resolution. This exercise improved my understanding of basic network diagnostics and how to document findings as an IT Support Technician.
+
+
+<img width="1345" height="932" alt="configuration" src="https://github.com/user-attachments/assets/3a5c58f7-6ceb-4a62-aa7e-840a2659cc02" />
+
+<img width="647" height="350" alt="Screenshot 2026-10-17 125138" src="https://github.com/user-attachments/assets/63e68563-628b-4074-b61c-db4ef2ded7c2" />
+<img width="760" height="376" alt="ping test (3)" src="https://github.com/user-attachments/assets/53d622cc-41c2-4d9e-b9b9-ec2cd330d989" />
+<img width="356" height="265" alt="nslookup" src="https://github.com/user-attachments/assets/606f95ca-a30d-4c5d-b969-f58c4d3a8814" />
